@@ -53,7 +53,9 @@ I'm a second-year BSc. Software Engineering student at the University of Northam
 
 ## Github PL Stats  
   
-<div align="center"><src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritz6533&show_icons=true&locale=en&layout=compact" alt="Ritz6533" align="center" /></div>  
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritz6533&show_icons=true&locale=en&layout=compact" alt="Ritz6533" /></p>
+</div>  
 
 <br/>
 
