@@ -55,7 +55,7 @@ I'm a second-year BSc. Software Engineering student at the University of Northam
 
 
 ## Connect with me  
-<div align="center">
+<div align="right">
 <a href="https://github.com/https://github.com/Ritz6533" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
