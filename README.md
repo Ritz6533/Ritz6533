@@ -3,9 +3,9 @@
 </div>  
   
 
-# **<div align="center">Hi there, I'm Ritesh 👋
+<div align="center">Hi there, I'm Ritesh 👋
 I'm a second-year BSc. Software Engineering student at the University of Northampton, UK, with a passion for learning new technologies and programming languages. I'm excited to start a career in Software Engineering and eager to gain industrial experience to enhance my skills further.
-. 🚀</div>**  
+ 🚀</div>
   
 
 - 🔭 I’m currently working on Android Development  
