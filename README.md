@@ -46,8 +46,7 @@ I'm a second-year BSc. Software Engineering student at the University of Northam
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Ritz6533&&style=flat-square)  
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritz6533&show_icons=true&locale=en&layout=compact" alt="Ritz6533" /></p>  
 
 <br/>  
 
