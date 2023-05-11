@@ -79,4 +79,4 @@ I'm a second-year BSc. Software Engineering student at the University of Northam
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Copyright  <a>HSETIRITESH</a></div>
