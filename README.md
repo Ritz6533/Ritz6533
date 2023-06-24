@@ -79,4 +79,4 @@ I'm a second-year BSc. Software Engineering student at the University of Northam
 <br />
 
 ----
-<div align="center">Copyright  <a>HSETIRITESH</a></div>
+<div align="center">Copyright © <a>HSETIRITESH</a></div>
