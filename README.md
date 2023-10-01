@@ -4,14 +4,14 @@
   
 
 <div align="center">Hi there, I'm Ritesh 👋
-I'm a second-year BSc. Software Engineering student at the University of Northampton, UK, with a passion for learning new technologies and programming languages. I'm excited to start a career in Software Engineering and eager to gain industrial experience to enhance my skills further.
+As a passionate tech enthusiast and dedicated data science enthusiast, I am driven by an insatiable curiosity for the world of data analysis, data science, and machine learning. With a strong commitment to continuous learning and a vision of harnessing the power of data for meaningful insights, I aspire to embark on a career journey marked by innovation, analytical excellence, and positive impact.
  🚀</div>
   
 
-- 🔭 I’m currently working on Android Development  
+- 🔭 I’m currently working on Data Science  
   
 
-- 🌱 I’m currently learning PHP Framework  
+- 🌱 I’m currently learning Python  
   
 
 <br/>  
